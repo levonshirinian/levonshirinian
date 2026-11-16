@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 🙋🏽‍♂️
 
+I'm Levon, a software engineer based is Syria.
+
+My main tech is C# asp.net core, interested in system designs and scalable backend sytems.
 <!--
 **levonshirinian/levonshirinian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
