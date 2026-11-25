@@ -1,4 +1,4 @@
-## Hi there 🙋🏽‍♂️
+## Hi there 👋
 
 I'm Levon, a software engineer based is Syria.
 
